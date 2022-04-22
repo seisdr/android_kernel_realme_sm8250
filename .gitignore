@@ -133,6 +133,12 @@ all.config
 # Object directory
 out/
 
+# Compilers' directory
+compiler/
+
+# Build script
+kernel.sh
+
 # Kdevelop4
 *.kdev4
 
